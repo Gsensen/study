@@ -1,0 +1,24 @@
+/* pages/kj/ForAndSum/index.wxss */
+
+input {
+  border-bottom: 1px solid blue; /* 添加input组件的下边框线 */
+  margin: 20px 0; /* input组件上下外边距为20px，左右外边距为0 */
+}
+
+button {
+  margin-top: 20px; /* 设置button组件的上边距为20px */
+}
+.index-desc {
+  margin-top: 20rpx;
+  color: #0803f7;
+  font-size: 45rpx;
+}
+.page-section{
+  margin-top: 50rpx;
+  margin-bottom: 20rpx;
+}
+.button-sp-area{  
+  margin-top:50rpx;
+  width: 60%;
+  color:#0803f7;
+}
