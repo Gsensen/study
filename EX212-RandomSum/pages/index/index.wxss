@@ -1,0 +1,21 @@
+/* pages/kj/RandomSum/index.wxss */
+.index-desc {
+  margin-top: 20rpx;
+  color: #3313d8;
+  font-size: 70rpx;
+}
+.page-section{
+  margin-top: 100rpx;
+  margin-bottom: 80rpx;
+}
+.wenzi{
+  margin-top: 60rpx;
+  color: #e90c0c;
+  font-size: 45rpx;
+}
+button {
+  margin-top: 80px; /* 设置button组件的上边距为20px */
+}
+.haoma{
+  margin-top: 60px；
+}

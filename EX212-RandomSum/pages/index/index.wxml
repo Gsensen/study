@@ -1,0 +1,12 @@
+<!--pages/kj/RandomSum/index.wxml-->
+<view class="container">
+  <view class='index-desc'>生成一注7个彩票号码</view>
+  <view class="wenzi">产生的彩票号码数列为：</view>
+  <view wx:for="{{rand}}">{{item}}</view>
+  <button type='primary' bindtap='newRand'>生成</button>
+  <view>
+  电科19-2郭冰森
+  201923010208
+  不为浮誉所惑，则所以养其力者厚；不与流俗相竞，则所以制其气者重
+  </view>
+</view>
